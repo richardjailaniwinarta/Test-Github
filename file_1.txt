@@ -8,4 +8,4 @@ Codingan dari saya
 
 Sedangkan kali ini test merge
 
-saya mau merge suapaya smua nya dari main dan branch bergabung
+saya mau konlfik ini bersatu dengan main
