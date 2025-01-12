@@ -1,6 +1,9 @@
 import pandas as pd
 
-# code ini berasal dari main
+# code ini berasal dari lokal
 
-# code main pada hari berikutnya
+# code dari kak cleonie
 
+Codingan dari saya
+
+Sedangkan kali ini test merge
