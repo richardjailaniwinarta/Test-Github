@@ -7,3 +7,5 @@ import pandas as pd
 Codingan dari saya
 
 Sedangkan kali ini test merge
+
+saya mau konlfik ini bersatu dengan main
